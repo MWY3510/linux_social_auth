@@ -1,0 +1,9 @@
+[submodule "linux_social_pam"]
+	path = linux_social_pam
+	url = https://github.com/mwy3510/linux_social_pam.git
+[submodule "linux_social_nss"]
+	path = linux_social_nss
+	url = https://github.com/mwy3510/linux_social_nss.git
+[submodule "linux_social_sudo"]
+	path = linux_social_sudo
+	url = https://github.com/mwy3510/linux_social_sudo.git
